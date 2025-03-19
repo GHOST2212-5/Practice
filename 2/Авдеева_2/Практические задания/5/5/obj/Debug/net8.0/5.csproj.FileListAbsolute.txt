@@ -1,0 +1,15 @@
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\bin\Debug\net8.0\5.exe
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\bin\Debug\net8.0\5.deps.json
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\bin\Debug\net8.0\5.runtimeconfig.json
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\bin\Debug\net8.0\5.dll
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\bin\Debug\net8.0\5.pdb
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.GeneratedMSBuildEditorConfig.editorconfig
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.AssemblyInfoInputs.cache
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.AssemblyInfo.cs
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.csproj.CoreCompileInputs.cache
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.sourcelink.json
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.dll
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\refint\5.dll
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.pdb
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\5.genruntimeconfig.cache
+E:\COLLEGE\Practice\2\Авдеева_2\Практические задания\5\5\obj\Debug\net8.0\ref\5.dll
